@@ -1,0 +1,15 @@
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\bin\Debug\net6.0\MyDeqeue.exe
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\bin\Debug\net6.0\MyDeqeue.deps.json
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\bin\Debug\net6.0\MyDeqeue.runtimeconfig.json
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\bin\Debug\net6.0\MyDeqeue.dll
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\bin\Debug\net6.0\MyDeqeue.pdb
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.AssemblyInfo.cs
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.dll
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\refint\MyDeqeue.dll
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.pdb
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\MyDeqeue.genruntimeconfig.cache
+C:\Users\Саша\source\repos\MyDeqeue\MyDeqeue\obj\Debug\net6.0\ref\MyDeqeue.dll
